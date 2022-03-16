@@ -12,7 +12,7 @@ inputs = gr.inputs.Image()
 o1 = gr.outputs.Image()
 o2 = gr.outputs.Textbox()
 
-title = "CRAFT-OCR"
+title = "CRAFT"
 description = "OCR of both handwriting and printed text using CRAFT Text detector and TrOCR recognition, detection of lines and extraction of them are happening here because TrOCR pre-trained models are modelled on IAM lines dataset and the same needs to be implemented here."
 examples=[['example_1.png'],['example_2.jpg']]
 
