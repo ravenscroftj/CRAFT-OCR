@@ -1,0 +1,3 @@
+craft-hw-ocr==1.1
+gradio
+opencv-python-headless==4.5.5.62
